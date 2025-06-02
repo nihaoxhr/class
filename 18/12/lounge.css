@@ -1,0 +1,24 @@
+p{
+  color:maroon;
+ }
+ 
+ h1,h2{   
+   color:grey;
+   font-size: 10vw;
+ }
+ h1{        
+   border-bottom: 1px solid black;
+ }
+ body{
+  font-family: Arial;
+ }
+ html{
+  font-size: 20px;
+ }
+ body{
+	color: royalblue;
+	color: rgb(250, 93, 25);
+	color: #4169E1CC;
+	color: rgba(250,177,182,0.8);
+	color: #5b423a;
+}
